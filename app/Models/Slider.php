@@ -11,4 +11,9 @@ class Slider extends Model
     protected $fillable = [
         'user_id', 'image',
     ];
+
+    public function getImageAttribute($image)
+    {
+        return url('storage/sliders/' . $image);
+    }
 }

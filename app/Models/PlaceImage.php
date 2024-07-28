@@ -11,4 +11,9 @@ class PlaceImage extends Model
     protected $fillable = [
         'place_id', 'image'
     ];
+
+    public function getImageAttribute($image)
+    {
+        return url('storage/places/' . $image);
+    }
 }

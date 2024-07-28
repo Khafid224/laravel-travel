@@ -16,4 +16,9 @@ class Category extends Model
     {
         return $this->hasMany(Place::class);
     }
+
+    public function getImageAttribute($image)
+    {
+        return url('storage/categories/' . $image);
+    }
 }
