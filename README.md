@@ -12,3 +12,6 @@ D. Uji coba API Login
 
 E. Uji coba API Logout
 ![image](https://github.com/user-attachments/assets/13814d0e-1d2f-469c-929f-1d545b705d50)
+
+F. Uji coba API Dashboard
+![image](https://github.com/user-attachments/assets/1b927c53-7f7d-4cf7-8934-fba01abe2ba4)
