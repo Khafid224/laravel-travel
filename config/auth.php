@@ -40,8 +40,11 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'api' => [                        // <-- guard "api"
+            'driver' => 'passport',        // <-- driver "passport"
+            'provider' => 'users',
+        ],
     ],
-
     /*
     |--------------------------------------------------------------------------
     | User Providers
