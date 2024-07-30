@@ -9,3 +9,6 @@ C. Membuat data User dengan tinker
 
 D. Uji coba API Login
 ![image](https://github.com/user-attachments/assets/3cab8a3c-c5bf-4b8b-965b-ef9784f28976)
+
+E. Uji coba API Logout
+![image](https://github.com/user-attachments/assets/13814d0e-1d2f-469c-929f-1d545b705d50)
