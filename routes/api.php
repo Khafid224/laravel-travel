@@ -19,5 +19,8 @@ Route::prefix('admin')->group(function () {
 
         //route logout
         Route::post('/logout', App\Http\Controllers\Api\Admin\LogoutController::class, ['as' => 'admin']);
+
+        //dashboard
+        Route::get('/dashboard', App\Http\Controllers\Api\Admin\DashboardController::class, ['as' => 'admin']);
     });
 });
