@@ -15,3 +15,6 @@ E. Uji coba API Logout
 
 F. Uji coba API Dashboard
 ![image](https://github.com/user-attachments/assets/1b927c53-7f7d-4cf7-8934-fba01abe2ba4)
+
+G. Membuat route API Categories
+![image](https://github.com/user-attachments/assets/c15a5aa7-4234-4199-b862-e38f4aef7531)
