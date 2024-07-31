@@ -12,3 +12,25 @@ D. Uji coba API Login
 
 E. Uji coba API Logout
 ![image](https://github.com/user-attachments/assets/13814d0e-1d2f-469c-929f-1d545b705d50)
+
+F. Uji coba API Dashboard
+![image](https://github.com/user-attachments/assets/1b927c53-7f7d-4cf7-8934-fba01abe2ba4)
+
+G. Membuat route API Categories
+![image](https://github.com/user-attachments/assets/c15a5aa7-4234-4199-b862-e38f4aef7531)
+
+H. Uji coba API Categories-index
+![image](https://github.com/user-attachments/assets/15103add-ced5-4931-b0cd-ac894bb78c07)
+
+I. Uji coba Categories-store
+![image](https://github.com/user-attachments/assets/bbe7e971-4680-409f-b859-a5854941f78b)
+
+J. Uji coba Categories-show
+![image](https://github.com/user-attachments/assets/ceb97031-724f-4f10-aa1c-8ef5385ab6c3)
+
+K. Uji coba Categories-update
+![image](https://github.com/user-attachments/assets/23a24f38-0ea5-4086-ae38-1fda2091b149)
+
+L. Uji coba Categories-destroy
+![image](https://github.com/user-attachments/assets/7856880a-021c-463a-b6a8-421b5710656d)
+
