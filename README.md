@@ -31,3 +31,6 @@ J. Uji coba Categories-show
 K. Uji coba Categories-update
 ![image](https://github.com/user-attachments/assets/23a24f38-0ea5-4086-ae38-1fda2091b149)
 
+L. Uji coba Categories-destroy
+![image](https://github.com/user-attachments/assets/7856880a-021c-463a-b6a8-421b5710656d)
+
