@@ -27,3 +27,7 @@ I. Uji coba Categories-store
 
 J. Uji coba Categories-show
 ![image](https://github.com/user-attachments/assets/ceb97031-724f-4f10-aa1c-8ef5385ab6c3)
+
+K. Uji coba Categories-update
+![image](https://github.com/user-attachments/assets/23a24f38-0ea5-4086-ae38-1fda2091b149)
+
