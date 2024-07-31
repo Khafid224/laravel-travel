@@ -24,3 +24,6 @@ H. Uji coba API Categories-index
 
 I. Uji coba Categories-store
 ![image](https://github.com/user-attachments/assets/bbe7e971-4680-409f-b859-a5854941f78b)
+
+J. Uji coba Categories-show
+![image](https://github.com/user-attachments/assets/ceb97031-724f-4f10-aa1c-8ef5385ab6c3)
