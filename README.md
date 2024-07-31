@@ -34,3 +34,5 @@ K. Uji coba Categories-update
 L. Uji coba Categories-destroy
 ![image](https://github.com/user-attachments/assets/7856880a-021c-463a-b6a8-421b5710656d)
 
+M. Uji coba API Places
+![image](https://github.com/user-attachments/assets/fb422925-5266-49b6-9d5f-66c55329ea8b)
