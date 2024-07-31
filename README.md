@@ -19,5 +19,8 @@ F. Uji coba API Dashboard
 G. Membuat route API Categories
 ![image](https://github.com/user-attachments/assets/c15a5aa7-4234-4199-b862-e38f4aef7531)
 
-H. Uji coba API Categories
+H. Uji coba API Categories-index
 ![image](https://github.com/user-attachments/assets/15103add-ced5-4931-b0cd-ac894bb78c07)
+
+I. Uji coba Categories-store
+![image](https://github.com/user-attachments/assets/bbe7e971-4680-409f-b859-a5854941f78b)
