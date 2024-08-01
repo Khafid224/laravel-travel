@@ -40,3 +40,6 @@ M. Uji coba API Places-index
 N. uji coba API Place-store
 ![image](https://github.com/user-attachments/assets/630c0c12-8df5-4add-aaa3-22a18e885712)
 
+O. uji coba API Place-show
+![image](https://github.com/user-attachments/assets/fca99f62-9b6d-4e3f-a197-e67eb8b135bc)
+
