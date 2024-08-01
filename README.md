@@ -34,3 +34,16 @@ K. Uji coba Categories-update
 L. Uji coba Categories-destroy
 ![image](https://github.com/user-attachments/assets/7856880a-021c-463a-b6a8-421b5710656d)
 
+M. Uji coba API Places-index
+![image](https://github.com/user-attachments/assets/fb422925-5266-49b6-9d5f-66c55329ea8b)
+
+N. uji coba API Place-store
+![image](https://github.com/user-attachments/assets/630c0c12-8df5-4add-aaa3-22a18e885712)
+
+O. uji coba API Place-show
+![image](https://github.com/user-attachments/assets/fca99f62-9b6d-4e3f-a197-e67eb8b135bc)
+
+P. uji coba API Places-update
+Q. uji coba API Places-destroy
+![image](https://github.com/user-attachments/assets/610d8840-bdb2-4d7d-90f4-ace37e37798f)
+
