@@ -43,3 +43,7 @@ N. uji coba API Place-store
 O. uji coba API Place-show
 ![image](https://github.com/user-attachments/assets/fca99f62-9b6d-4e3f-a197-e67eb8b135bc)
 
+P. uji coba API Places-update
+Q. uji coba API Places-destroy
+![image](https://github.com/user-attachments/assets/610d8840-bdb2-4d7d-90f4-ace37e37798f)
+
