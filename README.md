@@ -59,3 +59,6 @@ T. uji coba API Sliders-store
 U. uji coba API Sliders-destroy
 ![image](https://github.com/user-attachments/assets/d1fcb90c-015a-4f2a-b9cf-dc78419d29b7)
 
+V. Membuat route API Users
+![image](https://github.com/user-attachments/assets/327f7a18-1721-43fa-b811-c2d7a7ba13cd)
+
