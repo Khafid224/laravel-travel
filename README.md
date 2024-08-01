@@ -47,3 +47,15 @@ P. uji coba API Places-update
 Q. uji coba API Places-destroy
 ![image](https://github.com/user-attachments/assets/610d8840-bdb2-4d7d-90f4-ace37e37798f)
 
+R. Membuat Route API Slider
+![image](https://github.com/user-attachments/assets/a6e0d650-80a7-4f63-b886-815f8998b91b)
+
+S. uji coba API Sliders-index
+![image](https://github.com/user-attachments/assets/e6269429-0709-4759-be7a-857a3c2a3f5a)
+
+T. uji coba API Sliders-store
+![image](https://github.com/user-attachments/assets/1ff7a0c5-8265-4770-8d24-54dc2e9fdc81)
+
+U. uji coba API Sliders-destroy
+![image](https://github.com/user-attachments/assets/d1fcb90c-015a-4f2a-b9cf-dc78419d29b7)
+
