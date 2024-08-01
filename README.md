@@ -62,3 +62,7 @@ U. uji coba API Sliders-destroy
 V. Membuat route API Users
 ![image](https://github.com/user-attachments/assets/327f7a18-1721-43fa-b811-c2d7a7ba13cd)
 
+X. Uji coba API Users-index
+![image](https://github.com/user-attachments/assets/e6f43fc3-7a65-42fa-8630-afab83c73da0)
+
+
