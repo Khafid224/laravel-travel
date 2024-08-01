@@ -65,4 +65,8 @@ V. Membuat route API Users
 X. Uji coba API Users-index
 ![image](https://github.com/user-attachments/assets/e6f43fc3-7a65-42fa-8630-afab83c73da0)
 
+Y. uji coba API Users-store
+![image](https://github.com/user-attachments/assets/3262dcad-efe1-465e-921b-8c6ba76dd0fc)
+
+
 
