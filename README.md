@@ -68,5 +68,10 @@ X. Uji coba API Users-index
 Y. uji coba API Users-store
 ![image](https://github.com/user-attachments/assets/3262dcad-efe1-465e-921b-8c6ba76dd0fc)
 
+Z. buat route API WEB
+![image](https://github.com/user-attachments/assets/e1ceb2f9-9a84-4aff-8254-d0de5c64d67e)
+
+#. 
+
 
 
