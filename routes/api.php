@@ -36,3 +36,13 @@ Route::prefix('admin')->group(function () {
         Route::apiResource('/users', App\Http\Controllers\Api\Admin\UserController::class, ['except' => ['create', 'edit'], 'as' => 'admin']);
     });
 });
+
+//group route with prefix "web"
+Route::prefix('web')->group(function () {
+
+    //route categories index
+    Route::get('/categories', [App\Http\Controllers\Api\Web\CategoryController::class, 'index', ['as' => 'web']]);
+
+    //route categories show
+    Route::get('/categories/{slug?}', [App\Http\Controllers\Api\Web\CategoryController::class, 'show', ['as' => 'web']]);
+});
