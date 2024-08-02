@@ -71,7 +71,8 @@ Y. uji coba API Users-store
 Z. buat route API WEB
 ![image](https://github.com/user-attachments/assets/e1ceb2f9-9a84-4aff-8254-d0de5c64d67e)
 
-#. 
+A. Uji coba WEB categories-index
+![image](https://github.com/user-attachments/assets/6de3b870-ed5e-488b-8873-dedb01c37aa0)
 
 
 
