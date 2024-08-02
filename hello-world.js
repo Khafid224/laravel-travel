@@ -26,3 +26,11 @@ console.log(hello()); // <-- output "Hello World!"
 //panggil function dengan parameter
 console.log(hello('Belajar ES6 -> default parameter')); //<-- output "Belajar ES6"
 
+
+//Template String
+let name = 'Abdul Hafid';
+
+let gender = 'Laki-laki';
+
+console.log(`${name} memiliki jenis kelamin : ${gender}`); 
+
