@@ -84,3 +84,5 @@ C. buat route web-api
 E. Uji coba WEB Places-index
 ![image](https://github.com/user-attachments/assets/d5899a14-dad4-4c3e-8340-6f9a8c90aa7f)
 
+F. Uji coba WEB Places-show
+![image](https://github.com/user-attachments/assets/61ff0dca-ce67-4917-895c-56d9ae82a70c)
