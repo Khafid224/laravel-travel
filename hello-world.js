@@ -34,3 +34,42 @@ let gender = 'Laki-laki';
 
 console.log(`${name} memiliki jenis kelamin : ${gender}`); 
 
+//Arrow Function
+const hello = (name, umur) => ({
+	status: 'OK',
+	mesaage: `Hello $name umur ${umur}`
+});
+
+//Rest Parameter
+function sum(...rest) {
+    let sum = 0;
+    for (let number of rest) sum += number;
+    return sum;
+  }
+  
+  let x = sum(4, 9, 16, 25, 29, 100, 66, 77); // <-- output "326"
+
+  //Destructuring
+  //array
+const arr = ['ana', 'antum', 'antuna'];
+
+//destructuring
+const [name1, name2, name3] = arr;
+
+//print output
+console.log(name1); 
+console.log(name3); 
+console.log(name3); 
+
+//Restructuring
+//define variable
+const name = 'ahmad';
+const age = 25;
+
+//restructuring
+const obj = {name, age};
+
+//print output
+console.log(obj); 
+
+
