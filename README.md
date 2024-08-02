@@ -90,3 +90,8 @@ F. Uji coba WEB Places-show
 G. Uji coba WEB All-Places
 ![image](https://github.com/user-attachments/assets/e06abdfa-2d80-46fc-8de2-87bd60d51c02)
 
+H. buat route web API Slider
+![image](https://github.com/user-attachments/assets/f2622c1e-54ca-4088-a359-8cf041d1367c)
+
+I. Uji coba WEB Sliders-index
+![image](https://github.com/user-attachments/assets/487ca6de-b8e7-4b99-a1c4-1850586508d7)
