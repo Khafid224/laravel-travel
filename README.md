@@ -81,4 +81,6 @@ B. Uji coba WEB categories-show
 C. buat route web-api
 ![image](https://github.com/user-attachments/assets/bf57071b-1654-45a1-91fe-9c2806f18d4d)
 
+E. Uji coba WEB Places-index
+![image](https://github.com/user-attachments/assets/d5899a14-dad4-4c3e-8340-6f9a8c90aa7f)
 
