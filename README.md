@@ -86,3 +86,7 @@ E. Uji coba WEB Places-index
 
 F. Uji coba WEB Places-show
 ![image](https://github.com/user-attachments/assets/61ff0dca-ce67-4917-895c-56d9ae82a70c)
+
+G. Uji coba WEB All-Places
+![image](https://github.com/user-attachments/assets/e06abdfa-2d80-46fc-8de2-87bd60d51c02)
+
