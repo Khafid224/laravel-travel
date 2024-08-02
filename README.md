@@ -74,5 +74,7 @@ Z. buat route API WEB
 A. Uji coba WEB categories-index
 ![image](https://github.com/user-attachments/assets/6de3b870-ed5e-488b-8873-dedb01c37aa0)
 
+B. Uji coba WEB categories-show
+![image](https://github.com/user-attachments/assets/ab9f8205-9660-4b7c-ac4c-992ac621fb53)
 
 
